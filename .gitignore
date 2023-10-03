@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/*_cache/
+**/skeleton.html
+**/skeleton.pdf
+**/skeleton_files/
+**/*.log
+#docs

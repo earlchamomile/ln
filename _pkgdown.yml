@@ -1,0 +1,19 @@
+url: http://grantmcdermott.com/lecturenotes
+template:
+  bootstrap: 5
+navbar:
+  title: "lecturenotes"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Samples"
+      menu:
+        - text: "HTML"
+          href: "samples/lecturenotes.html"
+        - text: "PDF"
+          href: "samples/lecturenotes.pdf"
+  right:
+    - text: "News"
+      href: "news/index.html"
+    - icon: fa-github
+      href: https://github.com/grantmcdermott/lecturenotes
